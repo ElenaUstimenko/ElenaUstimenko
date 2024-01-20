@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<img src="./images/image.jpg" height="50" width="200"/></h1>
+<img src="./images/image.jpg" height="296" width="640"/></h1>
 
 
 
