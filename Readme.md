@@ -3,6 +3,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
+<img src="./images/image.jpg" height="50" width="200"/></h1>
+
+
 
 
 <h2 align="center">💬 Who am I</h2>
@@ -10,6 +13,7 @@
 <p>❤️ I’m a frontend developer who likes to learn something new.</p>
 <p>😊 Speak Russian and English, and I’m learning Korean.</p>
 <p>📚 My second degree in financial analysis.</p>
+
 
 
 
@@ -28,9 +32,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights)   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaUstimenko&theme=city_lights)
 
 
+
+
 <h2 align="center">📫 Reach me on</h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![link](https://t.me/elena_6464)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/elena_6464
 
 
 
