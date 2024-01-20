@@ -3,9 +3,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<img src="./images/image.jpg" height="296" width="640"/></h1>
-
-
 
 
 <h2 align="center">💬 Who am I</h2>
@@ -24,7 +21,7 @@
 
 
 
-<h2 align="center">📈 Statistic</h2>
+<h2 align="center">📈 My statistic</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenaUstimenko&theme=city_lights)
 
@@ -36,7 +33,8 @@
 
 <h2 align="center">📫 Reach me on</h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/elena_6464
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)   
+https://t.me/elena_6464
 
 
 
