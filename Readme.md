@@ -7,10 +7,9 @@
 
 <h2 align="center">💬 Who am I</h2>
 
-<p>❤️ I’m a frontend-developer who likes to learn something new.</p>
-<p>😊 Speak Russian and English, and I’m learning Korean.</p>
-<p>📚 I have a second degree in financial analysis.</p>
-
+<p>❤️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+a+frontend+developer+who+likes+to+learn+something+new.)](https://git.io/typing-svg)</p>
+<p>😊 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Speak+Russian+and+English,+and+I’m+learning+Korean.)](https://git.io/typing-svg)</p>
+<p>📚 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+second+degree+in+financial+analysis.)](https://git.io/typing-svg)</p>
 
 
 
