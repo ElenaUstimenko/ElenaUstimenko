@@ -7,9 +7,9 @@
 
 <h2 align="center">💬 Who am I</h2>
 
-<p>❤️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+a+frontend+developer+who+likes+to+learn+something+new.)](https://git.io/typing-svg)</p>
-<p>😊 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Speak+Russian+and+English,+and+I’m+learning+Korean.)](https://git.io/typing-svg)</p>
-<p>📚 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+second+degree+in+financial+analysis.)](https://git.io/typing-svg)</p>
+<p>❤️ I’m a frontend developer who likes to learn something new.</p>
+<p>😊 Speak Russian and English, and I’m learning Korean.</p>
+<p>📚 My second degree in financial analysis.</p>
 
 
 
@@ -21,6 +21,13 @@
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights)
+
+
 
 
 <h2 align="center">📫 Text me on</h2>
