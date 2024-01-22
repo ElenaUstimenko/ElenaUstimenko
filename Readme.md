@@ -7,9 +7,9 @@
 
 <h2 align="center">💬 Who am I</h2>
 
-<p>❤️ I’m a frontend developer who likes to learn something new.</p>
-<p>😊 Speak Russian and English, and I’m learning Korean.</p>
-<p>📚 My second degree in financial analysis.</p>
+<p>✔️ I’m a frontend developer who likes to learn something new.</p>
+<p>✔️ Speak Russian and English, and I’m learning Korean.</p>
+<p>✔️ My second degree in financial analysis.</p>
 
 
 
@@ -33,8 +33,8 @@
 
 <h2 align="center">📫 Reach me on</h2>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)   
-https://t.me/elena_6464
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
+ystimenko.e@mail.ru
 
 
 
