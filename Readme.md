@@ -27,11 +27,3 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights)   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaUstimenko&theme=city_lights)
-
-
-
-
-<h2 align="center">📫 Reach me on</h2>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
-elena_ust_64@mail.ru
