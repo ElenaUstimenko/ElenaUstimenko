@@ -34,4 +34,4 @@
 <h2 align="center">📫 Reach me on</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   
-ystimenko.e@mail.ru
+elena_ust_64@mail.ru
