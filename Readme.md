@@ -42,7 +42,7 @@
 <h2 align="center">📫 Reach me on</h2>
 
 
-<img src="/images/resume.svg" width="40" height="40"> https://elenaustimenko.github.io/my-portfolio/
+<img src="/images/resume.svg" width="40" height="40"> [my portfolio]https://elenaustimenko.github.io/my-portfolio/
 
 
 <img src="/images/email.svg" width="40" height="40"> elena.ustimenko@internet.ru
