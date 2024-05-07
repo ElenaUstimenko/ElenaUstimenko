@@ -48,4 +48,4 @@
 <img src="/images/email.svg" width="40" height="40"> elena.ustimenko@internet.ru
 
 
-<img src="/images/telegram.svg" width="40" height="40"> @elena_6464
+<img src="/images/telegram.svg" width="40" height="40"> [@elena_6464](https://t.me/elena_6464)
