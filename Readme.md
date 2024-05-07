@@ -42,10 +42,10 @@
 <h2 align="center">📫 Reach me on</h2>
 
 
-[![Портфолио](./images/resume.svg)]      https://elenaustimenko.github.io/my-portfolio/
+<img src="/images/resume.svg" width="30" height="30">     https://elenaustimenko.github.io/my-portfolio/
 
 
-[![Почта](./images/email.svg)]      elena.ustimenko@internet.ru
+<img src="/images/email.svg" width="30" height="30">      elena.ustimenko@internet.ru
 
 
-![Telegram](./images/telegram.svg)      @elena_6464
+<img src="/images/telegram.svg" width="30" height="30">      @elena_6464
