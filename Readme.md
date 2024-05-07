@@ -42,7 +42,7 @@
 <h2 align="center">📫 Reach me on</h2>
 
 
-![my portfolio](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png) https://elenaustimenko.github.io/my-portfolio/
+my portfolio => https://elenaustimenko.github.io/my-portfolio/
 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      elena.ustimenko@internet.ru
