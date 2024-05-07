@@ -21,7 +21,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,jest,nextjs,redux,graphql,nodejs,express,nginx,mongodb,webpack,postman,figma,vscode,npm,git,github" />
   </a>
-  <img src="/images/rest.svg" width="40" height="40"><img src="/images/eslint.svg" width="40" height="40"><img src="/images/storybook.svg" width="40" height="40"><img src="/images/fsd.svg" width="40" height="40">
 </p>
 
 
