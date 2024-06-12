@@ -7,7 +7,7 @@
 
 <h2 align="center">💬 Who am I</h2>
 
-<p>✔️ I’m a frontend developer who likes to learn something new.</p>
+<p>✔️ I’m a web developer who likes to learn something new to constantly improve my skills.</p>
 <p>✔️ Speak Russian and English, and I’m learning Korean.</p>
 <p>✔️ My second degree in financial analysis.</p>
 
