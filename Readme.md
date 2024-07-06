@@ -1,13 +1,12 @@
 
-<h1 align="center">Hello, I'm Elena
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, I'm Elena></h1>
 
 
 
 
 <h2 align="center">💬 Who am I</h2>
 
-<p>✔️ I’m a web developer who likes to learn something new to constantly improve my skills.</p>
+<p>✔️ I’m a web-developer who likes to learn something new to constantly improve my skills.</p>
 <p>✔️ Speak Russian and English, and I’m learning Korean.</p>
 <p>✔️ My second degree in financial analysis.</p>
 
@@ -34,8 +33,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights)   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaUstimenko&theme=city_lights)
 
 
-[![codewars](https://www.codewars.com/users/Elena2024/badges/small)](https://www.codewars.com/users/Elena2024) 
-
+<!--[![codewars](https://www.codewars.com/users/Elena2024/badges/small)](https://www.codewars.com/users/Elena2024) -->
 
 
 
