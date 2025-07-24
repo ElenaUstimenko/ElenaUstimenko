@@ -34,8 +34,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenaUstimenko&theme=city_lights)   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenaUstimenko&theme=city_lights)
 
 
-<!--[![codewars](https://www.codewars.com/users/Elena2024/badges/small)](https://www.codewars.com/users/Elena2024) -->
-
 
 
 <h2 align="center">📫 Reach me on</h2>
@@ -44,7 +42,7 @@
 <img src="/images/resume.svg" width="40" height="40"> [portfolio](https://elenaustimenko.github.io/my-portfolio/)
 
 
-<img src="/images/email.svg" width="40" height="40"> elena.ustimenko@internet.ru
+<img src="/images/email.svg" width="40" height="40"> ystimenko.e@mail.ru
 
 
 <img src="/images/telegram.svg" width="40" height="40"> [@elena_6464](https://t.me/elena_6464)
